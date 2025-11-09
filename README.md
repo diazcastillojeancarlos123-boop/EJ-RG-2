@@ -17,7 +17,7 @@ Permite visualizar productos, simular compras y registrar ventas de forma rápid
 
 ```python
 print("¡Bienvenido a Merca Z! 🛍️ Tu supermercado de confianza.")
+```
 
 🔗 Enlace a mi perfil de GitHub
-```
 https://github.com/diazcastillojeancarlos123-boop
