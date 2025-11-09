@@ -22,8 +22,6 @@ print("¡Bienvenido a Merca Z! 🛍️ Tu supermercado de confianza.")
 ## 🔗 Enlace a mi perfil de GitHub
 https://github.com/diazcastillojeancarlos123-boop
 
-Icono de merca z
-https://mercaz.com.co/wp-content/uploads/2024/04/logo-mercaz.png
+![Logo de Merca Z](https://mercaz.com.co/wp-content/uploads/2024/04/logo-mercaz.png)
 
-![GitHub Logo Full](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
 
