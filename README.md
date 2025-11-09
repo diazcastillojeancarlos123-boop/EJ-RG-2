@@ -20,7 +20,8 @@ print("¡Bienvenido a Merca Z! 🛍️ Tu supermercado de confianza.")
 ```
 
 ## 🔗 Enlace a mi perfil de GitHub
-https://github.com/diazcastillojeancarlos123-boop
+[Visita mi perfil en GitHub](https://github.com/diazcastillojeancarlos123-boop)
+
 
 ![Logo de Merca Z](https://mercaz.com.co/wp-content/uploads/2024/04/logo-mercaz.png)
 
