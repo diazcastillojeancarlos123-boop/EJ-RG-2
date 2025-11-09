@@ -21,3 +21,6 @@ print("¡Bienvenido a Merca Z! 🛍️ Tu supermercado de confianza.")
 
 🔗 Enlace a mi perfil de GitHub
 https://github.com/diazcastillojeancarlos123-boop
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
